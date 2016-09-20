@@ -1,5 +1,5 @@
 # Serie de Fourier
-Gráfico SVG interactivo para la representación de Series de Fourier
+Gráfico SVG interactivo para la representación de [Series de Fourier](https://es.wikipedia.org/wiki/Serie_de_Fourier)
 
 La aplicación está completamente incluida dentro de un gráfico svg.
 
