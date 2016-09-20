@@ -1,4 +1,4 @@
-# Serie-de-Fourier
+# Serie de Fourier
 Gráfico SVG interactivo para la representación de Series de Fourier
 
 La aplicación está completamente incluida dentro de un gráfico svg.
