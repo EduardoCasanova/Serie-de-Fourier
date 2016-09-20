@@ -7,8 +7,8 @@ Normalmente incluiría todo dentro de una página html, pero de esta manera creo
 
 
 Utiliza:
-- __svg__ para la representación y como contenedor.
+- __svg__, para la representación y como contenedor.
 - __javascript__,  para la interactividad.
-- __html__ para algunos elementos interactivos.
-- __css__ para parte de la presentación y algunos efectos.
+- __html__, para algunos elementos interactivos.
+- __css__, para parte de la presentación y algunos efectos.
 
