@@ -1,0 +1,6 @@
+{
+  "name": "Serie-de-fourier",
+  "tagline": "gráfico SVG interactivo para la representación de Series de Fourier",
+  "body": "# Serie de Fourier\r\nGráfico SVG interactivo para la representación de [Series de Fourier](https://es.wikipedia.org/wiki/Serie_de_Fourier)\r\n\r\nLa aplicación está completamente incluida dentro de un gráfico svg.\r\n\r\nNormalmente incluiría todo dentro de una página html, pero de esta manera creo que se hace más simple su uso y distribución.\r\n\r\n\r\nUtiliza:\r\n- __svg__, para la representación y como contenedor.\r\n- __javascript__,  para la interactividad.\r\n- __html__, para algunos elementos interactivos.\r\n- __css__, para parte de la presentación y algunos efectos.\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
